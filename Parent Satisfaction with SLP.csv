@@ -1,0 +1,65 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Consent,Q,Q,Q,Q_2_TEXT,Q,Q_2_TEXT,Q1,Q1_6_TEXT,Q2,Q3,Q4,Q4_2_TEXT,Q5_1,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q13,Q14
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"RESEARCH CONSENT FORM
+
+
+
+Project Title: Parent Satisfaction with Speech-Language Pathology Services Provided via Teletherapy
+
+Principal Investigator: Renee Fabus, Ph.D., CCC-SLP, TSHH
+
+Team Members: Alisha Marine, B.A., Damian Nolan, B.A., Amanda Owens, B.A., Olivia Poulin, B.S., Annabelle Rosenzweig, B.S.
+
+Department: Speech-Language Pathology
+
+
+
+KEY INFORMATION
+
+
+
+The information in this form is being used to seek your consent for a research study. Being in the study is voluntary, it is up to you.
+
+
+
+The research is being done to find out what implementation factors of speech-language pathology (SLP) teletherapy services contributed significantly to parent/caregiver satisfaction. You are eligible to participate because you reside on Long Island and are a parent of a child who was in elementary school and received SLP teletherapy services from the years of 2019-2021. Participation will last up to 15-20 minutes. Study procedures for this research are: completion of the survey in its entirety. You are free to skip over any particular question you do not wish to answer for any reason. At Stony Brook University, we aim to enroll approximately 84 subjects in this study.
+
+
+
+The most likely benefits of the research are: Contribution to the improvement of speech-language pathology telehealth services. The following risks/discomforts may occur as a result of you being in this study: May bring up negative feelings or discomfort pertaining to the Covid-19 pandemic or your child's struggles pertaining to speech. If you decide not to be in the research, your choices (if any) are to close out of the survey.
+
+
+
+There are no costs to you for participating in this study.
+
+
+
+INFORMATION ABOUT DATA
+
+
+
+All the information we get about you will not be linked to you at all. We will do this by not writing down your name or anything else that could link you in any way to the answers you give us for our study. You have the right to change your mind and leave the study at any time without giving any reason, and without penalty. You can print a copy of this consent form to keep. You do not lose any of your legal rights by agreeing to participate in this study.
+
+
+
+If you have any questions, concerns, or complaints about the study, you may contact Dr. Renee Fabus, at telephone # 631-638-0502. If you have any questions about your rights as a research subject or if you would like to obtain information or offer input, you may contact the Stony Brook University Research Subject Advocate, Ms. Lu-Ann Kozlowski, BSN, RN, (631) 632-9036, OR by e-mail, lu-ann.kozlowski@stonybrook.edu
+
+
+
+*Visit Stony Brook University’s Community Outreach page, http://research.stonybrook.edu/orc/community.shtml#overview-of-volunteering-in-research for more information about participating in research, frequently asked questions, and an opportunity to provide feedback, comments, or ask questions related to your experience as a research subject. 
+
+By selecting ""I consent"" it means that you have read (or have had the information read to you) and that you would like to volunteer for this study.",Do you currently reside on Long Island?,What age is your child currently?,Did your child receive in person speech-language pathology services prior to the COVID-19 pandemic (Prior to March 2020)? - Selected Choice,"Did your child receive in person speech-language pathology services prior to the COVID-19 pandemic (Prior to March 2020)? - If yes, list dates: - Text",Did your child receive speech-language pathology services delivered via telehealth during the COVID-19 pandemic (March 2020-December 2022)? - Selected Choice,"Did your child receive speech-language pathology services delivered via telehealth during the COVID-19 pandemic (March 2020-December 2022)? - If yes, list dates: - Text",Which race or ethnicity best describes you? (Please choose only one.) - Selected Choice,Which race or ethnicity best describes you? (Please choose only one.) - Multiple ethnicity/ Other (please specify) - Text,Do you or anyone in your family work in the following industries?,"What was your child receiving speech-language pathology services for during the pandemic (speech, language, swallowing, ect.)?",Is your child diagnosed with a deficit or disorder? - Selected Choice,"Is your child diagnosed with a deficit or disorder? - If yes, please specify: - Text",Rate your overall level of satisfaction with your child's SLP services prior to the pandemic on a scale of 1-7 with 7 being the highest level of satisfaction. - Overal Satisfaction,Rate your level of agreement with the following statement provided on a scale of 1-7 with 7 being the highest level of agreement: - My child's speech-language pathologist (SLP) was accessible via teletherapy,Rate your level of agreement with the following statement provided on a scale of 1-7 with 7 being the highest level of agreement: - My child's SLP provided adequate training for the use of teletherapy software,Rate your level of agreement with the following statement provided on a scale of 1-7 with 7 being the highest level of agreement: - Speech teletherapy services were equivalently priced with in-person services,Rate your level of agreement with the following statement provided on a scale of 1-7 with 7 being the highest level of agreement: - My child's SLP provided services via teletherapy that were equivalent with those provided in person,Rate your level of agreement with the following statement provided on a scale of 1-7 with 7 being the highest level of agreement: - My child received SLP services via teletherapy with the same frequency as in person,Rate your level of agreement with the following statement provided on a scale of 1-7 with 7 being the highest level of agreement: - I felt that my child benefitted from teletherapy as they would have from in person services,Rate your level of agreement with the following statement provided on a scale of 1-7 with 7 being the highest level of agreement: - I felt involved in my child’s SLP services via teletherapy.,Are there any other factors that you feel have positively impacted your/your child’s experience with SLP services via telehealth that were not included in this survey? Please explain:,Are there any other factors that you feel have negatively impacted your/your child’s experience with SLP services via telehealth that were not included in this survey? Please explain:
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID13""}","{""ImportId"":""QID15""}","{""ImportId"":""QID1""}","{""ImportId"":""QID2""}","{""ImportId"":""QID2_2_TEXT""}","{""ImportId"":""QID3""}","{""ImportId"":""QID3_2_TEXT""}","{""ImportId"":""QID18""}","{""ImportId"":""QID18_6_TEXT""}","{""ImportId"":""QID20""}","{""ImportId"":""QID22_TEXT""}","{""ImportId"":""QID23""}","{""ImportId"":""QID23_2_TEXT""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID5_2""}","{""ImportId"":""QID5_3""}","{""ImportId"":""QID5_4""}","{""ImportId"":""QID5_5""}","{""ImportId"":""QID5_6""}","{""ImportId"":""QID5_7""}","{""ImportId"":""QID26_TEXT""}","{""ImportId"":""QID27_TEXT""}"
+2023-09-22 08:57:28,2023-09-22 08:59:20,IP Address,71.167.85.248,38,112,False,2023-09-29 08:59:29,R_2zDgveyYVZMqDg0,,,,,,,anonymous,EN,I consent,Yes,8,"If yes, list dates:",1/1/2020,"If yes, list dates:",3/20/2020,,,,,,,,,,,,,,,,
+2023-10-04 05:41:23,2023-10-04 05:41:29,IP Address,24.47.33.117,8,6,False,2023-10-11 05:41:33,R_1IARJXPgmD4kX33,,,,,,,anonymous,EN,I consent,,,,,,,,,,,,,,,,,,,,,,
+2023-10-19 13:04:38,2023-10-19 13:04:46,IP Address,12.182.255.254,100,8,True,2023-10-19 13:04:48,R_wRJl4Yqyed8EJ6V,,,,,40.6304,-74.1641,anonymous,EN,I consent,No,,,,,,,,,,,,,,,,,,,,,
+2023-10-19 18:16:03,2023-10-19 18:16:29,IP Address,32.213.169.253,100,25,True,2023-10-19 18:16:30,R_2duzFvKBDPaNgbY,,,,,41.3319,-73.2367,anonymous,EN,I consent,No,,,,,,,,,,,,,,,,,,,,,
+2023-10-20 20:54:51,2023-10-20 21:00:28,IP Address,108.30.78.120,100,336,True,2023-10-20 21:00:29,R_1KxVC2ZBluK42f7,,,,,40.7279,-73.5118,anonymous,EN,I consent,Yes,14,"If yes, list dates:",Twice a week starting in November 2017,"If yes, list dates:",We tried once a week. It picked back up May 2020 (I think),White/Caucasian,,Education,Speech,No,,7,6,5,1,5,4,4,7,The connection with the therapist was great.,My child’s experience was positive. The sessions ended up being shorter because there were often technology issues to deal with.
+2023-10-19 12:36:14,2023-10-19 12:36:40,IP Address,148.76.112.108,15,25,False,2023-10-26 12:36:41,R_3paIoHdrZBIeHMw,,,,,,,anonymous,EN,I consent,Yes,,,,,,,,,,,,,,,,,,,,,
+2023-11-05 10:27:54,2023-11-05 10:28:06,IP Address,72.13.154.202,100,12,True,2023-11-05 10:28:07,R_2am0Q1GJW1MNA8d,,,,,26.7162,-80.0695,anonymous,EN,I consent,No,,,,,,,,,,,,,,,,,,,,,
+2023-11-09 10:51:43,2023-11-09 10:52:08,IP Address,129.49.100.22,100,25,True,2023-11-09 10:52:09,R_10IzKABIcuqDdQm,,,,,40.9076,-73.122,anonymous,EN,I consent,Yes,Under 8,,,,,,,,,,,,,,,,,,,,
+2023-11-21 13:19:38,2023-11-21 13:38:59,IP Address,69.112.48.113,100,1160,True,2023-11-21 13:38:59,R_Pu3SzLwcTL02YjD,,,,,40.8562,-73.3037,anonymous,EN,I consent,Yes,Under 8,,,,,,,,,,,,,,,,,,,,
+2023-11-21 13:39:03,2023-11-21 13:41:46,IP Address,69.112.48.113,100,163,True,2023-11-21 13:41:47,R_3kCdgDlew1RWOTN,,,,,40.8562,-73.3037,anonymous,EN,I consent,Yes,10,"If yes, list dates:",April 2018 - May 2019,"If yes, list dates:",March 2020 - May 2020,Hispanic,,Neither,"Speech ","If yes, please specify:",ADHD,6,5,3,7,3,7,2,4,Our speech therapist was very flexible with appointment times,Technological issues and lack of in-person education affected my daughter’s speech
+2023-11-21 15:41:40,2023-11-21 15:43:55,IP Address,69.124.211.160,100,134,True,2023-11-21 15:43:56,R_33k8Nfl7tS2HhSM,,,,,40.9427,-72.999,anonymous,EN,I consent,Yes,12,"If yes, list dates:",2018-2019,No,,,,,,,,,,,,,,,,,
+2023-11-21 15:45:17,2023-11-21 15:49:45,IP Address,69.124.211.160,100,268,True,2023-11-21 15:49:46,R_1Cvh21HA278a0o3,,,,,40.9427,-72.999,anonymous,EN,I consent,Yes,13,"If yes, list dates:",2017-March 2020,"If yes, list dates:",March 2020-June 2022,Hispanic,,Education,Speech,No,,6,7,6,6,5,6,5,6,The convenience of no travel.,No
+2023-11-21 16:54:31,2023-11-21 16:57:23,IP Address,107.77.226.12,100,171,True,2023-11-21 16:57:24,R_3j9A0gbgH9Zk6J6,,,,,40.763,-73.9926,anonymous,EN,I consent,Yes,10,"If yes, list dates:",January 2019 to March 2020,"If yes, list dates:",March 2020 to December 2021,White/Caucasian,,Neither,Speech,No,,5,5,5,5,4,3,5,4,N/A,N/A
+2023-11-15 16:08:44,2023-11-15 16:09:06,IP Address,47.16.57.166,15,21,False,2023-11-22 16:09:08,R_1M047qsO5JvUgUj,,,,,,,anonymous,EN,I consent,Yes,,,,,,,,,,,,,,,,,,,,,
