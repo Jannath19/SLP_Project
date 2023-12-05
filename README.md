@@ -26,3 +26,14 @@ The dataset used in this analysis contains responses from a survey conducted amo
 
 ## Step 2: Formulas and Definitions
 Parent Satisfaction(dependent variable) = Residency (independent variable) + Child’s Age (independent variable) + Previous Services (independent variable) + Family Work Industry (independent variable) + Diagnosis (independent variable)
+
+## Results 
+Found significant variations in parent/caregiver satisfaction levels during different phases of the pandemic.
+High satisfaction during certain periods may suggest adaptations and improvements in teletherapy services.
+accessible teletherapy services positively influences parent/caregiver satisfaction.
+
+## Reflection
+Better recruitment efforts could have been employed, potentially through collaboration with elementary schools for broader outreach.
+Elementary schools could be valuable partners, ensuring a more diverse and representative sample.
+(5 responders) with only 4 completed responses.
+Larger participant pool could provide better insights into the factors influencing satisfaction.
